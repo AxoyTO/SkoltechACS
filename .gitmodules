@@ -1,0 +1,3 @@
+[submodule "1B/Introduction to Data Science/ds-intro"]
+	path = 1B/Introduction to Data Science/ds-intro
+	url = https://github.com/skolai/ds-intro.git
