@@ -1,3 +1,5 @@
 1B/Foundations of Software Engineering/practical_1_unix_local_machine_1/practical_1_unix_local_machine_1/[0-9]*
 ._*
 *.DS_Store
+*.virtual_documents*
+*-checkpoint*
