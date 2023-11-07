@@ -8,3 +8,5 @@ launch.json
 1B/Foundations of Software Engineering/FSE_2023_G4
 settings.json
 2/CV/Szeliski_CVAABook_2ndEd.pdf
+.idea
+*.gz
